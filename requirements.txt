@@ -2,7 +2,7 @@
 face-recognition
 Flask
 Jinja2
-opencv-contrib-python
+#opencv-contrib-python
 opencv-python
 pandas
 pillow 
