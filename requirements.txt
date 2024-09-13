@@ -1,0 +1,34 @@
+asgiref==3.8.1
+blinker==1.8.2
+catalogue==1.0.2
+charset-normalizer==3.1.0
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+Django==4.2.13
+dlib @ file:///D:/bld/dlib-split_1726092738078/work
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz#sha256=06c80936324012d1223291d2af41a5229e746dc2dee8fe31a532666ee3d18aaa
+face-recognition @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_1619808233029/work
+face-recognition-models @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_models_1595707436534/work
+Flask==3.0.3
+importlib_metadata==8.5.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+mkl-service==2.4.0
+mkl_fft @ file:///C:/b/abs_f55mv94vyg/croot/mkl_fft_1725370278455/work
+mkl_random @ file:///C:/b/abs_21ydbzdu8d/croot/mkl_random_1725370276095/work
+numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp39-cp39-win_amd64.whl#sha256=afd4c53d4b548db7b600782fd4368ad419de0533ac199a031101a0b99df7eaf7
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+pandas==2.2.2
+pillow @ file:///D:/bld/pillow_1704252195695/work
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.16.0
+spacy==2.3.5
+sqlparse==0.5.0
+thinc==7.4.6
+typing_extensions==4.11.0
+tzdata==2024.1
+Werkzeug==3.0.4
+zipp==3.20.1
