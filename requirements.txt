@@ -12,7 +12,7 @@ importlib_metadata==8.5.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
 MarkupSafe==2.1.5
-mkl-service==2.4.0
+mkl-service
 mkl_fft
 mkl_random
 numpy 
