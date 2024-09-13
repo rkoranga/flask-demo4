@@ -1,5 +1,5 @@
 
-face-recognition
+
 Flask
 Jinja2
 #opencv-contrib-python
